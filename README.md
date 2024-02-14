@@ -1,1 +1,3 @@
 # music_data_analysis
+
+•Conducted a comprehensive music data analysis,, leveraging datasets from Spotify API and Kaggle. Successfully cleaned, processed, and explored music track features, including artist names, genres, and popularity. Applied statistical analysis, visualizations, and correlation matrices to uncover trends over time and genres. Identified popular artists and examined correlations between musical features. The project showcased proficiency in data acquisition, cleaning, and exploratory analysis, with potential for predictive modeling. Summarized findings in a concise report with clear visualizations, highlighting strong analytical and interpretative skills
